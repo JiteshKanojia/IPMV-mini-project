@@ -1,15 +1,12 @@
 
 
 # Author :		[Jitesh Kanojia]
-# Filename:			task_1a_part1.py
+# Filename:			main.py
 # Functions:		process_video
 #  Global variables:	frame_details
 
 
 ####################### IMPORT MODULES #######################
-## You are not allowed to make any changes in this section. ##
-## You have to implement this task with the three available ##
-## modules for this task (numpy, opencv, os)                ##
 ##############################################################
 import cv2
 import numpy as np
